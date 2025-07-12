@@ -18,7 +18,7 @@
 - 💻 I build **cross-platform mobile apps** with:
   - Dart & OOP
   - Firebase (Auth, Firestore, Storage)
-  - GetX & BLoC for state management
+  - GetX for state management
   - PHP, MySQL, SQLite
   - Rest APIs & Thunder Client
   - Shared Preferences & Local Databases
@@ -40,7 +40,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Rest API](https://img.shields.io/badge/REST-API-orange)
 ![GetX](https://img.shields.io/badge/GetX-blueviolet)
-![BLoC](https://img.shields.io/badge/BLoC-lightgrey)
 ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-green)
 
@@ -58,11 +57,6 @@
 
 ---
 
-## 🧡 Fun Facts
-
-- 🐧 I enjoy exploring **Linux** systems.
-- 🎬 I love movies & PC building.
-- 🔥 Fun fact: Banging your head against a wall for an hour burns **150 calories**. 😅
 
 ---
 
