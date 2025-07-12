@@ -17,9 +17,12 @@
 - 🌱 I’m currently working as a **Flutter Developer**.
 - 💻 I build **cross-platform mobile apps** with:
   - Dart & OOP
-  - Firebase (Auth, Firestore, Storage)
   - GetX for state management
   - PHP, MySQL, SQLite
+  - Rest APIs & Thunder Client
+  - Shared Preferences & Local Databases
+  - Firebase (Auth, Firestore, Storage)
+  - GetX for state management
   - Rest APIs & Thunder Client
   - Shared Preferences & Local Databases
   - Social Media Login/Sign-Up Integration (Facebook, Twitter, Instagram)
