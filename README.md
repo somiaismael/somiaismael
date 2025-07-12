@@ -6,7 +6,6 @@
 <h1>👋 Hi, I'm Somia Ismael</h1>
 <p><strong>⚡ Cross-Platform Mobile App Developer (Flutter)</strong></p>
 
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/spxd007)
 
 </div>
 
@@ -73,5 +72,4 @@
 
 ---
 
-⭐️ From [Somia Ismael](https://github.com/your-username)
 
